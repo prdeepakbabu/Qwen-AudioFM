@@ -1,0 +1,8 @@
+ transformers
+ ipywidgets
+ datasets
+ transformers
+ librosa
+ soundfile
+ einops 
+ tiktoken
